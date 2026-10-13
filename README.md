@@ -1,17 +1,31 @@
-# find_back_version1
+# FindBack
 
-A new Flutter project.
+Мобильное приложение на Flutter для сохранения и поиска местоположений.
 
-## Getting Started
+## Что умеет
 
-This project is a starting point for a Flutter application.
+- Сохранение геометки с описанием и фото
+- Просмотр всех меток на карте
+- Поиск по адресу
+- Загрузка фотографий к меткам
 
-A few resources to get you started if this is your first Flutter project:
+## Стек
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Dart
+- Flutter
+- C++ (нативная часть)
+- CMake
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Платформы
+
+- Android
+- iOS
+- Web
+- Windows
+- macOS
+- Linux
+
+## Автор
+
+Максим Кобец
+- GitHub: [@Maxkob301](https://github.com/Maxkob301)
