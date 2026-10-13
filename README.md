@@ -17,14 +17,7 @@
 - CMake
 
 ## Платформы
-
-- Android
-- iOS
 - Web
-- Windows
-- macOS
-- Linux
-
 ## Автор
 
 Максим Кобец
